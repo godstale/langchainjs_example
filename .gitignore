@@ -1,0 +1,9 @@
+# Ignore node_modules folders in all subdirectories
+**/node_modules
+**/.env
+**/.env.local
+**/.env.development.local
+**/.vscode
+**/.DS_Store
+**/dist
+**/build
