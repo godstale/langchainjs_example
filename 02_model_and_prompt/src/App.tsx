@@ -64,7 +64,9 @@ const App: React.FC = () => {
             <option value="English" selected>
               영어
             </option>
+            <option value="Japanese">일본어</option>
             <option value="Chinese">중국어</option>
+            <option value="Italian">이탈리아어</option>
             <option value="Spanish">스페인어</option>
             <option value="Portuguese">포르투갈어</option>
             <option value="French">프랑스어</option>
